@@ -20,3 +20,6 @@
 
 
 [![Git Inspector](https://github.com/BalaAnuhya123/M1_Project/actions/workflows/gitinsepector.yml/badge.svg)](https://github.com/BalaAnuhya123/M1_Project/actions/workflows/gitinsepector.yml)
+
+
+[![Unit Testing - Unity](https://github.com/BalaAnuhya123/M1_Project/actions/workflows/unit-test.yml/badge.svg)](https://github.com/BalaAnuhya123/M1_Project/actions/workflows/unit-test.yml)
