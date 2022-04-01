@@ -62,3 +62,17 @@ void displaychart(int curp,char player[4])
 
 	printf("--------------------------------------------------------------------------\n");
 }
+
+
+
+int units()
+{
+    int unit=60;
+	if(amount==60){
+		return 120;
+	}
+	else{
+		return 0;
+	}
+
+}
