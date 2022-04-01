@@ -1,1 +1,1 @@
-![architecture](https://user-images.githubusercontent.com/101310224/161247624-8dea84d8-27bb-4b57-bd00-2389c33afab0.png)
+![architecture](https://user-images.githubusercontent.com/101310224/161262671-d86bd286-b8ff-4246-84f2-2543c01711c8.png)
