@@ -17,3 +17,6 @@
 [![Code Quality - Cppcheck](https://github.com/BalaAnuhya123/M1_Project/actions/workflows/cpp.yml/badge.svg)](https://github.com/BalaAnuhya123/M1_Project/actions/workflows/cpp.yml)
 
 [![CodeQuality-Valgrind](https://github.com/BalaAnuhya123/M1_Project/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/BalaAnuhya123/M1_Project/actions/workflows/Valgrind.yml)
+
+
+[![Git Inspector](https://github.com/BalaAnuhya123/M1_Project/actions/workflows/gitinsepector.yml/badge.svg)](https://github.com/BalaAnuhya123/M1_Project/actions/workflows/gitinsepector.yml)
