@@ -9,3 +9,5 @@
 
 ![Codiga Badge](https://api.codiga.io/project/32349/score/svg)
 ![Codiga Score](https://api.codiga.io/project/32349/status/svg)
+
+[![Analysis](https://github.com/BalaAnuhya123/M1_Project/actions/workflows/Analysis.yml/badge.svg)](https://github.com/BalaAnuhya123/M1_Project/actions/workflows/Analysis.yml)
