@@ -67,9 +67,9 @@ void displaychart(int curp,char player[4])
 
 int units()
 {
-    int unit=60;
-	if(amount==60){
-		return 120;
+    int unit=40;
+	if(amount==40){
+		return 80;
 	}
 	else{
 		return 0;
