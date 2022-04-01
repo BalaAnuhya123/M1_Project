@@ -20,8 +20,8 @@ void tearDown(){}
 
 void test_units(void){
         
-        int unit=60;
-  	TEST_ASSERT_EQUAL(120,units(unit));
+        int unit=40;
+  	TEST_ASSERT_EQUAL(80,units(unit));
       
 }
 
