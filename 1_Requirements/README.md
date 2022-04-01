@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-* This is a C Programming Snake And Ladder project. This project contains all the topics of C programming like  Functions etc. These topics are explained in brief with examples.At first the user have to provide the details like player 1, player2. After that the user can select the topic that they want to read about. 
+* This is a C Programming Snake And Ladder project. This project contains some of the topics of C programming like  Functions etc.At first the user have to provide the details like player 1, player2. After that the user can select the topic that they want to read about. 
 # 4W&#39;s and 1&#39;H
 ## Who
 * Any user who are intrested in playing sanke and ladders.
